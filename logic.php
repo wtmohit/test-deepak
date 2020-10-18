@@ -238,3 +238,4 @@ for($i = 0; $i <= $string; $i++){
 
 $string = "amazonLocalizedCompleteness";
 echo $completenessKey = lcfirst(str_replace("Completeness", "", $string));
+echo 'test-deepak';
